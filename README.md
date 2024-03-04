@@ -16,8 +16,8 @@ Simple Lag Switcher made in python!
 
 ### Executing program
 
-* open program,
-* set keybind,
+* open program
+* set keybind
 * and enjoy!
 
 
